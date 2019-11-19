@@ -1,0 +1,9 @@
+
+.ipynb_checkpoints/Washing mashines and dryers-checkpoint.ipynb
+*.png
+data/desktop.ini
+data/laundry_from_drive.xlsx
+data/laundry_from_drive_backup.xlsx
+data/laundry_from_drive_backup_what happened.xlsx
+data/~$laundry_from_drive.xlsx
+data/~$laundry_from_drive_manual_merge.xlsx
